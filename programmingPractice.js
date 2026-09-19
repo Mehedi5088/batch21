@@ -6,3 +6,5 @@ class GitPractice {
 
 const result = new GitPractice();
 result.oddNumber();
+//rtutyty
+//tufjfgyjuy
