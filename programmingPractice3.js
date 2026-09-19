@@ -6,3 +6,8 @@ class GitPractice {
 
 const result = new GitPractice();
 result.oddNumber();
+// test conflict
+// one more test conflict
+// 
+
+// one more confilct
