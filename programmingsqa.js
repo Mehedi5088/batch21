@@ -6,3 +6,6 @@ class SQAClass {
 
 const result = new SQAClass();
 result.oddNumber();
+
+// dsjfskjdfhkjshf
+// jkdfskdfjhksjdfhjs
